@@ -14,7 +14,7 @@ void function_B()
 
 void function_C()
 {
-
+    cout << "finish C" << endl;
 }
 
 int main()
