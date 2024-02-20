@@ -9,7 +9,7 @@ void function_A()
 
 void function_B()
 {
-
+    cout << "finish B" << endl;
 }
 
 void function_C()
