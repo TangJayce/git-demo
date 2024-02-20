@@ -19,7 +19,7 @@ void function_C()
 
 void function_conflict()
 {
-
+    cout << "Adil run" << endl;
 }
 
 int main()
