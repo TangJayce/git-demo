@@ -17,6 +17,11 @@ void function_C()
     cout << "finish C" << endl;
 }
 
+void function_conflict()
+{
+
+}
+
 int main()
 {
     cout << "Hello, World!" << endl;
