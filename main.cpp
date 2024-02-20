@@ -28,5 +28,6 @@ int main()
     function_A();
     function_B();
     function_C();
+    function_conflict();
     return 0;
 }
