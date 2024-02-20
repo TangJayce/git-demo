@@ -10,5 +10,6 @@ void function_A()
 int main()
 {
     cout << "Hello, World!" << endl;
+    function_A();
     return 0;
 }
