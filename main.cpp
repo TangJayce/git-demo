@@ -21,5 +21,7 @@ int main()
 {
     cout << "Hello, World!" << endl;
     function_A();
+    function_B();
+    function_C();
     return 0;
 }
